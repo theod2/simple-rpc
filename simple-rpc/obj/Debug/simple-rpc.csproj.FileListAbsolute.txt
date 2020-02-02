@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\simple-rpc.exe.config
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\simple-rpc.exe
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\simple-rpc.pdb
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple_rpc.ConfigForm.resources
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple_rpc.MainForm.resources
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple_rpc.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple-rpc.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple-rpc.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple-rpc.exe
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple-rpc.pdb
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\obj\Debug\simple-rpc.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\DiscordRPC.dll
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\DiscordRPC.pdb
+C:\Users\Administrateur\source\repos\simple-rpc\simple-rpc\bin\Debug\DiscordRPC.xml
